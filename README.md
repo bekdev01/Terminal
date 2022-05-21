@@ -1,7 +1,5 @@
 # VM
 
----
-
 a - writes left side of cursor
 
 i - writes right side of cursor
@@ -53,3 +51,27 @@ yy - copy line
 p - paste copied line to one line below
 
 shift + p - paste copied line to one line above````
+
+---
+
+# Nano 
+
+crtl  + w - search(down)
+
+alt + w - find the next one
+
+crtl + q - search (up)
+
+ctrl + \ - find and replace
+
+alt + 6 - copy entire line
+
+ctrl + u - paste
+
+ctrl + k - cut line
+
+ctrl + 6 - copy certain amount of text
+
+alt + u - undo
+
+alt + e - redo
